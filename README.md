@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Garg</h1>
 <h3 align="center">A passionate Frontend Angular Developer from India</h3>
 
-<p align="left"> <img src="https://pluspng.com/img-png/coder-png-a-place-to-find-programming-and-design-jobs-157.png" alt="erhimanshugarg" /> </p>
+<p align="right"> <img src="https://pluspng.com/img-png/coder-png-a-place-to-find-programming-and-design-jobs-157.png" alt="erhimanshugarg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hganshu4" target="blank"><img src="https://img.shields.io/twitter/follow/hganshu4?logo=twitter&style=for-the-badge" alt="hganshu4" /></a> </p>
 
